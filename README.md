@@ -18,6 +18,13 @@ The primary research goal is to critically analyze the effectiveness, challenges
 - Analyze case studies and industry deployments to evaluate migration steps, obstacles, and best practices.
 - Propose new frameworks for identity-based access control and adaptive trust metrics in diverse environments.
 
+
+
+## Main Problem Statement Of Our Baseline Paper 
+
+While Zero Trust Architecture (ZTA) has gained recognition as a prevalent approach for implementing Zero Trust principles in network security, there is currently no standardized or universally accepted method or framework for effectively deploying and managing Zero Trust across different environments such as cloud, edge, IoT, and 5G/6G networks. 
+This paper addresses the problem by reviewing and comparing current Zero Trust models to identify their strengths, weaknesses, and unresolved challenges, ultimately guiding future research toward more cohesive and adaptable ZTA solutions.
+
 ## References
 - Dhiman, P. et al., "A Review and Comparative Analysis of Relevant Approaches of Zero Trust Network Model," _Sensors_, vol. 24, no. 1328, 2024.
 - Additional academic and industry publications cited in the research.
