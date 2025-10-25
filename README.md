@@ -2,7 +2,7 @@
 
 Loom video of our work
 1. Mohithaa - 
-2. Emefa - 
+2. Emefa - https://www.loom.com/share/06814f9d673649c78e7a02c47648affa
 
 ## Overview
 This repository contains the research, resources, and documentation for the study "Firewalls to Identity: Rethinking Network Security with Zero Trust Architecture." The project addresses the transition from traditional perimeter-based network defenses to identity-centric Zero Trust approaches in distributed environments.
