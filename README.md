@@ -30,5 +30,9 @@ This paper addresses the problem by reviewing and comparing current Zero Trust m
 - Rose, S., Borchert, O., Mitchell, S., & Connelly, S. (2020). "Zero Trust Architecture." NIST Special Publication 800-207. National Institute of Standards and Technology.
 - Rais, R., Morillo, C., Gilman, E., & Barth, D. (2024). "Zero Trust Networks, 2nd Edition." O'Reilly Media. ISBN: 9781492096597
 - Flanigan, J. et al. (2025). "A Systematic Literature Review on the Implementation and Challenges of Zero Trust Architecture Across Domains." PMC12526847.
-- Bashir, T. (2024). "Zero Trust Architecture: Enhancing Cybersecurity in Enterprise Networks." Journal of Computer Science and Technology Studies, 6(4), 54-59.
+- Bashir, T., (2024). "Zero Trust Architecture: Enhancing Cybersecurity in Enterprise Networks." Journal of Computer Science and Technology Studies, 6(4), 54-59.
+- Yeoh, W.; Liu, M.; Shore, M.; Jiang, F. Zero trust cybersecurity: Critical success factors and A maturity assessment framework. Comput. Secur. 2023, 133, 103412
+- Stafford V., Zero trust architecture. NIST special publication. 2020 Aug;800(207):800-207.
+- Phiayura P., Teerakanok S. A comprehensive framework for migrating to zero trust architecture. Ieee Access. 2023 Feb 24;11:19487-511.
+- Bertino E., Zero trust architecture: does it help?. IEEE Security & Privacy. 2021 Sep 1;19(05):95-6.
 
