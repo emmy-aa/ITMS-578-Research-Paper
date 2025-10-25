@@ -22,7 +22,7 @@ While Zero Trust Architecture (ZTA) has gained recognition as a prevalent approa
 This paper addresses the problem by reviewing and comparing current Zero Trust models to identify their strengths, weaknesses, and unresolved challenges, ultimately guiding future research toward more cohesive and adaptable ZTA solutions.
 
 Loom video of our work
-1. Mohithaa - 
+1. Mohithaa - https://www.loom.com/share/04ed5ac5c271402bb0f514248ed9ea56
 2. Emefa - https://www.loom.com/share/06814f9d673649c78e7a02c47648affa
 
 ## References
