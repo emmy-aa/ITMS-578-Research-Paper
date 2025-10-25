@@ -1,9 +1,5 @@
 # Firewalls to Identity: Rethinking Network Security with Zero Trust Architecture
 
-Loom video of our work
-1. Mohithaa - 
-2. Emefa - https://www.loom.com/share/06814f9d673649c78e7a02c47648affa
-
 ## Overview
 This repository contains the research, resources, and documentation for the study "Firewalls to Identity: Rethinking Network Security with Zero Trust Architecture." The project addresses the transition from traditional perimeter-based network defenses to identity-centric Zero Trust approaches in distributed environments.
 
@@ -24,6 +20,10 @@ The primary research goal is to critically analyze the effectiveness, challenges
 
 While Zero Trust Architecture (ZTA) has gained recognition as a prevalent approach for implementing Zero Trust principles in network security, there is currently no standardized or universally accepted method or framework for effectively deploying and managing Zero Trust across different environments such as cloud, edge, IoT, and 5G/6G networks. 
 This paper addresses the problem by reviewing and comparing current Zero Trust models to identify their strengths, weaknesses, and unresolved challenges, ultimately guiding future research toward more cohesive and adaptable ZTA solutions.
+
+Loom video of our work
+1. Mohithaa - 
+2. Emefa - https://www.loom.com/share/06814f9d673649c78e7a02c47648affa
 
 ## References
 - Dhiman, P., Saini, N., Gulzar, Y., Turaev, S., Kaur, A., Nisa, K.U., & Hamid, Y. (2024). "A Review and Comparative Analysis of Relevant Approaches of Zero Trust Network Model." Sensors, 24(1328), 1-19.
