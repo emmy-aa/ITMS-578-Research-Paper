@@ -26,7 +26,7 @@ While Zero Trust Architecture (ZTA) has gained recognition as a prevalent approa
 This paper addresses the problem by reviewing and comparing current Zero Trust models to identify their strengths, weaknesses, and unresolved challenges, ultimately guiding future research toward more cohesive and adaptable ZTA solutions.
 
 ## References
-- Dhiman, P. et al., "A Review and Comparative Analysis of Relevant Approaches of Zero Trust Network Model," _Sensors_, vol. 24, no. 1328, 2024.
+- Dhiman, P., Saini, N., Gulzar, Y., Turaev, S., Kaur, A., Nisa, K.U., & Hamid, Y. (2024). "A Review and Comparative Analysis of Relevant Approaches of Zero Trust Network Model." Sensors, 24(1328), 1-19.
 - Rose, S., Borchert, O., Mitchell, S., & Connelly, S. (2020). "Zero Trust Architecture." NIST Special Publication 800-207. National Institute of Standards and Technology.
 - Rais, R., Morillo, C., Gilman, E., & Barth, D. (2024). "Zero Trust Networks, 2nd Edition." O'Reilly Media. ISBN: 9781492096597
 - Flanigan, J. et al. (2025). "A Systematic Literature Review on the Implementation and Challenges of Zero Trust Architecture Across Domains." PMC12526847.
